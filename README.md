@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Supriya079
+- 👋 Hi, I’m Supriya Chaudhari
 - Currently: BE CS Student at Savitribai Phule Pune University at Pune.
 
 <h2>📫 How to reach me:</h2>
