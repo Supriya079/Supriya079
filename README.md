@@ -3,7 +3,7 @@
 
 <h2>📫 How to reach me:</h2>
 
-<a href="https://www.linkedin.com/in/supriya-chaudhari-558a98204/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://www.linkedin.com/in/supriya-chaudhari-558a98204/">![PortFolio]()</a>
+<a href="https://www.linkedin.com/in/supriya-chaudhari-558a98204/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://www.linkedin.com/in/supriya-chaudhari-558a98204/">![Portfolio](https://user-images.githubusercontent.com/83088291/150925906-db516efa-e91e-49da-852e-a368875bea74.jpg)</a>
 
 <!---
 Supriya079/Supriya079 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
